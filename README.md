@@ -1,6 +1,4 @@
-# demoblackcoffer
-
-Demo project for internship.
+#FireBasePhoneAuth
 
 ## Getting Started
 
